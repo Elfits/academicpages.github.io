@@ -12,7 +12,7 @@ redirect_from:
 under construction……
 ======
 hi
-I am a little little student in Wuhan University of Technology.
+I am a little little student @ Wuhan University of Technology.
 
 And I'm majoring in Human-Robot Collaboration.
 
