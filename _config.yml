@@ -83,16 +83,16 @@ author:
   bio              : "Ph.D. Candidate </br> Wuhan University of Technology"
   location         : "Wuhan, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "zhhliu@whut.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/ElfitsLiu"
   foursquare       :
-  github           : "academicpages"
+  github           : "Elfits"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/ElfitsLiu"
   vine             :
   weibo            :
   xing             :
